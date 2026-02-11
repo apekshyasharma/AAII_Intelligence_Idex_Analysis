@@ -4,7 +4,7 @@ A data-driven benchmarking analysis of leading Artificial Intelligence models us
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 As artificial intelligence models rapidly evolve and become embedded across industries such as healthcare, education, finance, and software development, understanding their strengths, limitations, and trade-offs is increasingly important.
 
@@ -19,7 +19,7 @@ The analysis addresses key questions such as:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Compare leading AI models using standardized intelligence benchmarks  
 - Evaluate **Artificial Intelligence Index**, **Coding Index**, and **Math Index**  
@@ -156,21 +156,22 @@ Models such as **Grok 3 mini**, **Gemini 2.5 Flash**, and **Claude 4 Sonnet Thin
 
 ---
 
-## 📄 Detailed Documentation
+## Detailed Documentation
 
 A comprehensive explanation of the methodology, analysis process, results, and interpretations is available in:
 
-**📘 Artificial Intelligence Analysis Report.pdf**
+**Artificial Intelligence Analysis Report.pdf**
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Apekshya Sharma**
 
 ---
 
-## 📜 License
+## License
 
 This project is intended for **academic and research purposes**.  
 All data used in this analysis is sourced from publicly available information on **ArtificialAnalysis.ai**.
+
